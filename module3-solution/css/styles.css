@@ -5,6 +5,7 @@
 }
 .navbar-default .navbar-brand {
   color: black;
+  font-size: 2em;
 }
 .nav.navbar-nav.navbar-right li a {
     text-align: center;
