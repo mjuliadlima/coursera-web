@@ -3,14 +3,21 @@
 .navbar {
   background-color: #94b8b8;
 }
-.navbar-default .navbar-brand {
+#restaurant-title {
   color: black;
   font-size: 2em;
 }
 .nav.navbar-nav.navbar-right li a {
-    text-align: center;
-    color: black;
-    padding: 0px;
+  text-align: center;
+  color: black;
+}
+#nav-list {
+  background-color: white;
+  margin-top: 0px;
+  margin-left: -15px;
+  margin-right: -15px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 /** MAIN CONTENT **/
 .menu-box {
